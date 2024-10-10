@@ -16,3 +16,4 @@ let name="harsh"
 console.log(typeof(name))
 console.log(typeof(undefined))//undefined
 console.log(typeof(null))//object
+
